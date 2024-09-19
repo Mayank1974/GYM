@@ -22,7 +22,7 @@ export default function Content() {
         </p>
       </div>
 
-      <div className="training-split bg-slate-100 flex-wrap  mx-auto w-[460px] flex flex-col justify-center items-center  rounded-[10px] shadow-lg shadow-gray-500 px-8 pb-4 m-4">
+      <div className="training-split bg-slate-100 flex-wrap  mx-auto w-[420px] flex flex-col justify-center items-center  rounded-[10px] shadow-lg shadow-gray-500 px-8 pb-4 m-4">
         <h1 className="my-2 underline font-bold text-2xl">
           Training Split Overview
         </h1>
