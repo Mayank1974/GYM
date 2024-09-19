@@ -1,8 +1,6 @@
 import React from "react";
 import banner from "../assets/banner.jpg";
-import img1 from "../assets/images.jfif";
-import img2 from "../assets/images.jfif";
-import Carosole from "./Carosole";
+
 export default function Content() {
   return (
     <div className="h-[100%] mb-20">
