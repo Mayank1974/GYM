@@ -30,8 +30,8 @@ export default function Content() {
           <li>Day : 1 : Chest and Triceps</li>
           <li>Day : 2 : Back and Biceps</li>
           <li>Day : 3 : Shoulders and Abs</li>
-          <li>Day : 4 : Chest and Triceps (focus on different exercises)</li>
-          <li>Day : 5 : Back and Biceps (focus on different exercises)</li>
+          <li>Day : 4 : Chest and Triceps (different exercises)</li>
+          <li>Day : 5 : Back and Biceps (different exercises)</li>
           <li>Day : 6 : Legs</li>
           <li>Day : 7 : Rest or Active Recovery</li>
         </ol>
