@@ -12,7 +12,7 @@ export default function Footer() {
         . All Rights Reserved.
       </span>
       
-      <span>Designed & Developed by<a href="https://www.linkedin.com/in/mayankchauhan2002/" className="font-bold">Mayank Chauhan</a></span>
+      <span>Designed & Developed by <a href="https://www.linkedin.com/in/mayankchauhan2002/" className="font-bold"> Mayank Chauhan</a></span>
     </span>
   );
 }
